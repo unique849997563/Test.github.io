@@ -1,14 +1,14 @@
-# Hexo Configuration
+﻿# Hexo Configuration
 ## Docs: https://hexo.io/docs/configuration.html
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Hexo
-subtitle:
-description:
+title: 禾文的个人博客
+subtitle: 
+description: 
 keywords:
-author: John Doe
-language:
+author: 禾文
+language: zh-Hans
 timezone:
 
 # URL
